@@ -1,5 +1,5 @@
-#Magento
+# Magento
 
-##Getting started
+## Getting started
 
 Some text here
