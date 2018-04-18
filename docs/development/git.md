@@ -14,6 +14,8 @@ The development branch should then be deployed to the staging server. After succ
 
 You can then deploy from the master branch to the production server.
 
+---
+
 ![Git ideal workflow](images/git-flow-chart.png)
 
 ---
